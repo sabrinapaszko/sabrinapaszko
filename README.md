@@ -3,6 +3,7 @@
 Meu nome é Sabrina Paszko
 
 - Sou Aluna do Programa Jovem Talento Tech;
+- Sou apaixonada por tecnologia e sonho em cursar Ciência da Computação;
 - Estou me desenvolvendo nas linguagens JavaScript, C e C++; 
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos; 
 

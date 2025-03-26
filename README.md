@@ -2,8 +2,8 @@
 
 Meu nome é Sabrina Paszko
 
-- Estou estudando na [Alura](https://www.alura.com.br);
-- Estou me desenvolvendo na linguagem JavaScript; 
+- Sou Aluna do Programa Jovem Talento Tech;
+- Estou me desenvolvendo nas linguagens JavaScript, C e C++; 
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos; 
 
   ![](https://media1.tenor.com/m/rgJleMzUa8MAAAAC/bailes.gif)

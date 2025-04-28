@@ -9,4 +9,3 @@ Meu nome é Sabrina Paszko
 
   ![](https://media1.tenor.com/m/rgJleMzUa8MAAAAC/bailes.gif)
   ![](https://media.tenor.com/dutdoOw7PjsAAAAi/happy-cat.gif)
-  ![](https://tenor.com/bggPs.gif)
